@@ -23,7 +23,7 @@ export default function RefundPage() {
           <p className="text-gray-600 mb-6">Refunds for third-party products (such as antivirus software, GreytHR, Vyapar, etc.) are subject to the respective vendor&apos;s refund policy. TechVibeStudio will assist in facilitating the refund process.</p>
 
           <h2 className="text-2xl font-bold mb-4">4. How to Request a Refund</h2>
-          <p className="text-gray-600 mb-6">To request a refund, please contact us at <a href="mailto:info@techvibestudio.store" className="text-[#6C63FF] hover:underline">info@techvibestudio.store</a> or call <a href="tel:+919881849615" className="text-[#6C63FF] hover:underline">+91-9881849615</a> with your order details. We will process eligible refunds within 7-10 business days.</p>
+          <p className="text-gray-600 mb-6">To request a refund, please contact us at <a href="mailto:support@techvibestudio.store" className="text-[#6C63FF] hover:underline">support@techvibestudio.store</a> or call <a href="tel:+919881849615" className="text-[#6C63FF] hover:underline">+91-9881849615</a> with your order details. We will process eligible refunds within 7-10 business days.</p>
 
           <h2 className="text-2xl font-bold mb-4">5. Cancellation</h2>
           <p className="text-gray-600">You may cancel a subscription or ongoing service at any time. Cancellation will take effect at the end of the current billing period. No partial refunds are provided for unused portions of the billing period.</p>

@@ -32,7 +32,7 @@ export default function TermsPage() {
           <p className="text-gray-600 mb-6">These terms shall be governed by the laws of India. Any disputes shall be subject to the jurisdiction of courts in Nanded, Maharashtra.</p>
 
           <h2 className="text-2xl font-bold mb-4">7. Contact</h2>
-          <p className="text-gray-600">For questions about these Terms, contact us at <a href="mailto:info@techvibestudio.store" className="text-[#6C63FF] hover:underline">info@techvibestudio.store</a>.</p>
+          <p className="text-gray-600">For questions about these Terms, contact us at <a href="mailto:support@techvibestudio.store" className="text-[#6C63FF] hover:underline">support@techvibestudio.store</a>.</p>
         </div>
       </section>
     </>

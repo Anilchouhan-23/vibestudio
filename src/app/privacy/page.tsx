@@ -32,7 +32,7 @@ export default function PrivacyPage() {
           <p className="text-gray-600 mb-6">Our website may contain links to third-party sites. We are not responsible for the privacy practices or content of these sites.</p>
 
           <h2 className="text-2xl font-bold mb-4">7. Contact Us</h2>
-          <p className="text-gray-600">If you have any questions about this Privacy Policy, please contact us at <a href="mailto:info@techvibestudio.store" className="text-[#6C63FF] hover:underline">info@techvibestudio.store</a> or call us at <a href="tel:+919881849615" className="text-[#6C63FF] hover:underline">+91-9881849615</a>.</p>
+          <p className="text-gray-600">If you have any questions about this Privacy Policy, please contact us at <a href="mailto:support@techvibestudio.store" className="text-[#6C63FF] hover:underline">support@techvibestudio.store</a> or call us at <a href="tel:+919881849615" className="text-[#6C63FF] hover:underline">+91-9881849615</a>.</p>
         </div>
       </section>
     </>

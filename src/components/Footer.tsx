@@ -140,10 +140,10 @@ export default function Footer() {
               <li className="flex items-center gap-3">
                 <FaEnvelope className="w-4 h-4 text-[#6C63FF] shrink-0" />
                 <a
-                  href="mailto:info@techvibestudio.store"
+                  href="mailto:support@techvibestudio.store"
                   className="text-sm text-gray-400 hover:text-[#6C63FF] transition-colors"
                 >
-                  info@techvibestudio.store
+                  support@techvibestudio.store
                 </a>
               </li>
             </ul>

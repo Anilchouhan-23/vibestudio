@@ -115,8 +115,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                    <a href="mailto:info@techvibestudio.store" className="text-gray-500 text-sm hover:text-[#6C63FF] transition-colors">
-                      info@techvibestudio.store
+                    <a href="mailto:support@techvibestudio.store" className="text-gray-500 text-sm hover:text-[#6C63FF] transition-colors">
+                      support@techvibestudio.store
                     </a>
                   </div>
                 </div>
