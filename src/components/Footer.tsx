@@ -35,6 +35,7 @@ const footerLinks = {
   legal: [
     { name: "Privacy Policy", href: "/privacy" },
     { name: "Terms & Conditions", href: "/terms" },
+    { name: "Affiliate Disclaimer", href: "/affiliate-disclaimer" },
     { name: "Refund Policy", href: "/refund" },
   ],
 };
